@@ -16,6 +16,8 @@
 .wordtext{
 	text-align: center;
 	margin-top: 50px;
+	position: relative;
+	height: 100vh;
 }
 .welcome{
 	text-align: center;
